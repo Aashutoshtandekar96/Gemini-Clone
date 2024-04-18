@@ -42,8 +42,8 @@ Embark on an interactive journey with Gemini Clone, an innovative React-based we
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Aashutoshtandekar96/
-cd travel_ui_ux
+git clone https://github.com/Aashutoshtandekar96/Gemini-Clone.git
+cd Gemini-Clone
 ```
 
 **Installation**
